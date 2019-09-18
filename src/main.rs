@@ -16,7 +16,7 @@ fn main() {
         .collect::<Vec<_>>();
     let mut y = vec![0.; num_points as usize];
 
-    y[0] = f(x[0]) * (1. - h * K(x[0], x[0] / 3.)).powi(-1);
+    y[0] = f(x[0]) * (1. - h * K(x[0], x[0]) / 3.).powi(-1);
 
     let koeff = |i| if i % 2 == 0 { 4. * h / 3. } else { 2. * h / 3. };
     for i in 1..num_points as usize {
@@ -48,8 +48,9 @@ fn main() {
 
     let func = |x: f64| (x * x + x).exp();
     let size = x.len();
-    let dev = (1..size).map(|i| 100. * (1. - y[i] / func(x[i])));
+    let dev = (0..size).map(|i| 100. * (1. - y[i] / func(x[i])));
     let data = x.iter().cloned().zip(dev).collect::<Vec<_>>();
+    println!("{:?}", data);
 
     let s1: Scatter = Scatter::from_slice(data.as_slice()).style(
         PointStyle::new()
