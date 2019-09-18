@@ -1,0 +1,116 @@
+<svg viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+<g transform="translate(54, 364)">
+<g>
+<rect fill="#DD3355" height="10" width="10" x="-5" y="-5"/>
+<rect fill="#DD3355" height="10" width="10" x="5.408163265306124" y="-5.024259368930304"/>
+<rect fill="#DD3355" height="10" width="10" x="15.816326530612248" y="-5.929059960664688"/>
+<rect fill="#DD3355" height="10" width="10" x="26.224489795918366" y="-6.041048612364322"/>
+<rect fill="#DD3355" height="10" width="10" x="36.632653061224495" y="-8.75608902829887"/>
+<rect fill="#DD3355" height="10" width="10" x="47.04081632653061" y="-8.953842748532434"/>
+<rect fill="#DD3355" height="10" width="10" x="57.44897959183673" y="-11.905708431882374"/>
+<rect fill="#DD3355" height="10" width="10" x="67.85714285714286" y="-12.221612571744409"/>
+<rect fill="#DD3355" height="10" width="10" x="78.26530612244899" y="-15.436445898660319"/>
+<rect fill="#DD3355" height="10" width="10" x="88.6734693877551" y="-15.883203526783802"/>
+<rect fill="#DD3355" height="10" width="10" x="99.08163265306122" y="-19.391456650065553"/>
+<rect fill="#DD3355" height="10" width="10" x="109.48979591836735" y="-19.983970844045363"/>
+<rect fill="#DD3355" height="10" width="10" x="119.89795918367346" y="-23.82040839414911"/>
+<rect fill="#DD3355" height="10" width="10" x="130.30612244897958" y="-24.576136474410536"/>
+<rect fill="#DD3355" height="10" width="10" x="140.71428571428572" y="-28.780506925176844"/>
+<rect fill="#DD3355" height="10" width="10" x="151.12244897959184" y="-29.7198721305126"/>
+<rect fill="#DD3355" height="10" width="10" x="161.53061224489798" y="-34.33769706967967"/>
+<rect fill="#DD3355" height="10" width="10" x="171.9387755102041" y="-35.48457786609621"/>
+<rect fill="#DD3355" height="10" width="10" x="182.3469387755102" y="-40.56808111674057"/>
+<rect fill="#DD3355" height="10" width="10" x="192.75510204081635" y="-41.950393250014244"/>
+<rect fill="#DD3355" height="10" width="10" x="203.16326530612244" y="-47.55959650855677"/>
+<rect fill="#DD3355" height="10" width="10" x="213.57142857142856" y="-49.209986115633"/>
+<rect fill="#DD3355" height="10" width="10" x="223.9795918367347" y="-55.4140032646557"/>
+<rect fill="#DD3355" height="10" width="10" x="234.38775510204084" y="-57.37067327962423"/>
+<rect fill="#DD3355" height="10" width="10" x="244.79591836734693" y="-64.24924222752614"/>
+<rect fill="#DD3355" height="10" width="10" x="255.20408163265307" y="-66.55693912003574"/>
+<rect fill="#DD3355" height="10" width="10" x="265.61224489795916" y="-74.20223819330126"/>
+<rect fill="#DD3355" height="10" width="10" x="276.02040816326536" y="-76.91343197100223"/>
+<rect fill="#DD3355" height="10" width="10" x="286.42857142857144" y="-85.4322378852991"/>
+<rect fill="#DD3355" height="10" width="10" x="296.83673469387753" y="-88.60853553968764"/>
+<rect fill="#DD3355" height="10" width="10" x="307.2448979591837" y="-98.12479223535162"/>
+<rect fill="#DD3355" height="10" width="10" x="317.6530612244898" y="-101.83863374083607"/>
+<rect fill="#DD3355" height="10" width="10" x="328.06122448979596" y="-112.49651642626978"/>
+<rect fill="#DD3355" height="10" width="10" x="338.46938775510205" y="-116.83321342753288"/>
+<rect fill="#DD3355" height="10" width="10" x="348.8775510204082" y="-128.80079070599174"/>
+<rect fill="#DD3355" height="10" width="10" x="359.2857142857143" y="-133.86098166674202"/>
+<rect fill="#DD3355" height="10" width="10" x="369.6938775510204" y="-147.33460147454258"/>
+<rect fill="#DD3355" height="10" width="10" x="380.1020408163265" y="-153.23721396367537"/>
+<rect fill="#DD3355" height="10" width="10" x="390.5102040816327" y="-168.4467672845002"/>
+<rect fill="#DD3355" height="10" width="10" x="400.9183673469388" y="-175.33259906621626"/>
+<rect fill="#DD3355" height="10" width="10" x="411.3265306122449" y="-192.547850345309"/>
+<rect fill="#DD3355" height="10" width="10" x="421.734693877551" y="-200.58390705770316"/>
+<rect fill="#DD3355" height="10" width="10" x="432.1428571428571" y="-220.12212360909956"/>
+<rect fill="#DD3355" height="10" width="10" x="442.55102040816325" y="-229.5068833779604"/>
+<rect fill="#DD3355" height="10" width="10" x="452.9591836734694" y="-251.7420499899626"/>
+<rect fill="#DD3355" height="10" width="10" x="463.36734693877554" y="-262.7118660019033"/>
+<rect fill="#DD3355" height="10" width="10" x="473.7755102040817" y="-288.08583810054535"/>
+<rect fill="#DD3355" height="10" width="10" x="484.1836734693877" y="-300.9227410763831"/>
+<rect fill="#DD3355" height="10" width="10" x="494.59183673469386" y="-329.95877362846346"/>
+<rect fill="#DD3355" height="10" width="10" x="505" y="-345"/>
+</g>
+<g>
+<g>
+<line stroke="black" stroke-width="1" x1="0" x2="0" y1="0" y2="10"/>
+<line stroke="black" stroke-width="1" x1="104.08163265306122" x2="104.08163265306122" y1="0" y2="10"/>
+<line stroke="black" stroke-width="1" x1="208.16326530612244" x2="208.16326530612244" y1="0" y2="10"/>
+<line stroke="black" stroke-width="1" x1="312.24489795918373" x2="312.24489795918373" y1="0" y2="10"/>
+<line stroke="black" stroke-width="1" x1="416.3265306122449" x2="416.3265306122449" y1="0" y2="10"/>
+</g>
+<line stroke="black" stroke-width="1" x1="0" x2="510" y1="0" y2="0"/>
+<g>
+<text font-size="12" text-anchor="middle" x="0" y="20">
+0
+</text>
+<text font-size="12" text-anchor="middle" x="104.08163265306122" y="20">
+0.2
+</text>
+<text font-size="12" text-anchor="middle" x="208.16326530612244" y="20">
+0.4
+</text>
+<text font-size="12" text-anchor="middle" x="312.24489795918373" y="20">
+0.6000000000000001
+</text>
+<text font-size="12" text-anchor="middle" x="416.3265306122449" y="20">
+0.8
+</text>
+</g>
+<text font-size="12" text-anchor="middle" x="255" y="30">
+Йекс
+</text>
+</g>
+<g>
+<g>
+<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-58.21084171192943" y2="-58.21084171192943"/>
+<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-117.6344092928574" y2="-117.6344092928574"/>
+<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-177.05797687378538" y2="-177.05797687378538"/>
+<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-236.48154445471332" y2="-236.48154445471332"/>
+<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-295.9051120356413" y2="-295.9051120356413"/>
+</g>
+<line stroke="black" stroke-width="1" x1="0" x2="0" y1="0" y2="-340"/>
+<g>
+<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-58.21084171192943">
+2
+</text>
+<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-117.6344092928574">
+3
+</text>
+<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-177.05797687378538">
+4
+</text>
+<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-236.48154445471332">
+5
+</text>
+<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-295.9051120356413">
+6
+</text>
+</g>
+<text font-size="12" text-anchor="middle" transform="rotate(-90 -30 -170)" x="-30" y="-182">
+Уигрек
+</text>
+</g>
+</g>
+</svg>
