@@ -48,9 +48,8 @@ fn main() {
 
     let func = |x: f64| (x * x + x).exp();
     let size = x.len();
-    let dev = (0..size).map(|i| 100. * (1. - y[i] / func(x[i])));
+    let dev = (0..size).map(|i| 100. * (((y[i] - func(x[i])) / func(x[i])).abs()));
     let data = x.iter().cloned().zip(dev).collect::<Vec<_>>();
-    println!("{:?}", data);
 
     let s1: Scatter = Scatter::from_slice(data.as_slice()).style(
         PointStyle::new()
